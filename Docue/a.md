@@ -53,3 +53,7 @@ Single has park mark.
 Single has park cross.
 
 Single has major.
+
+Single has major on effect.
+
+Single has major on stat.
