@@ -56,4 +56,4 @@ Single has major.
 
 Single has major on effect.
 
-Single has major on stat.
+Single has major on stat. 
