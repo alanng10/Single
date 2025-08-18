@@ -63,3 +63,5 @@ Single has major on sand.
 Single has major on class.
 
 Single has major on glob.
+
+Single has none execution runner.
