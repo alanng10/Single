@@ -65,3 +65,5 @@ Single has major on class.
 Single has major on glob.
 
 Single has none execution runner.
+
+Single memory alloc is alloc in full when it return.
